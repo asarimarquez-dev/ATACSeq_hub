@@ -1,0 +1,73 @@
+# pega el contenido, luego Ctrl+O y Enter para guardar, Ctrl+X para salir
+track NS_6h
+type bigWig
+bigDataUrl https://asarimarquez-dev.github.io/ATACseq_hub/bigwigs/NS_6h_chr9_merged.bw
+shortLabel NS 6h
+longLabel ATAC-seq fibroblastos NS 6h
+color 0,0,255
+visibility full
+
+track TNF_6h
+type bigWig
+bigDataUrl https://asarimarquez-dev.github.io/ATACseq_hub/bigwigs/TNF_6h_chr9_merged.bw
+shortLabel TNF 6h
+longLabel ATAC-seq fibroblastos TNF 6h
+color 255,0,0
+visibility full
+
+track IFNB_6h
+type bigWig
+bigDataUrl https://asarimarquez-dev.github.io/ATACseq_hub/bigwigs/IFNB_6h_chr9_merged.bw
+shortLabel IFNB 6h
+longLabel ATAC-seq fibroblastos IFNB 6h
+color 0,128,0
+visibility full
+
+track NS_12h
+type bigWig
+bigDataUrl https://asarimarquez-dev.github.io/ATACseq_hub/bigwigs/NS_12h_chr9_merged.bw
+shortLabel NS 12h
+longLabel ATAC-seq fibroblastos NS 12h
+color 0,0,255
+visibility full
+
+track TNF_12h
+type bigWig
+bigDataUrl https://asarimarquez-dev.github.io/ATACseq_hub/bigwigs/TNF_12h_chr9_merged.bw
+shortLabel TNF 12h
+longLabel ATAC-seq fibroblastos TNF 12h
+color 255,0,0
+visibility full
+
+track IFNB_12h
+type bigWig
+bigDataUrl https://asarimarquez-dev.github.io/ATACseq_hub/bigwigs/IFNB_12h_chr9_merged.bw
+shortLabel IFNB 12h
+longLabel ATAC-seq fibroblastos IFNB 12h
+color 0,128,0
+visibility full
+
+track NS_20h
+type bigWig
+bigDataUrl https://asarimarquez-dev.github.io/ATACseq_hub/bigwigs/NS_20h_chr9_merged.bw
+shortLabel NS 20h
+longLabel ATAC-seq fibroblastos NS 20h
+color 0,0,255
+visibility full
+
+track TNF_20h
+type bigWig
+bigDataUrl https://asarimarquez-dev.github.io/ATACseq_hub/bigwigs/TNF_20h_chr9_merged.bw
+shortLabel TNF 20h
+longLabel ATAC-seq fibroblastos TNF 20h
+color 255,0,0
+visibility full
+
+track IFNB_20h
+type bigWig
+bigDataUrl https://asarimarquez-dev.github.io/ATACseq_hub/bigwigs/IFNB_20h_chr9_merged.bw
+shortLabel IFNB 20h
+longLabel ATAC-seq fibroblastos IFNB 20h
+color 0,128,0
+visibility full
+

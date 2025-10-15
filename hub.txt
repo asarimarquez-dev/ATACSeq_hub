@@ -1,0 +1,5 @@
+hub ATACseq_CCD25Lu
+shortLabel ATAC-seq fibroblastos
+longLabel ATAC-seq fibroblastos NS, TNF, IFNB 6/12/20h
+genomesFile genomes.txt
+email asarimarquez@gmail.com
